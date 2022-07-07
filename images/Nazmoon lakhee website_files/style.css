@@ -1,0 +1,37 @@
+.bg{
+    background-image: url(images/photo-1488521787991-ed7bbaae773c.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    width: 100%;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    color: rgb(34, 146, 180);
+    font-size: 60px;
+
+}
+p{
+    padding-top: 20px;
+}
+
+
+.tex-box{
+    width: 90%;
+    color: #ece4e4;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+
+
+
+}
